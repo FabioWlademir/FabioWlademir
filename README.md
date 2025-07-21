@@ -60,7 +60,7 @@
 - [Livro: Domine o Windows 11](https://loja.uiclap.com/titulo/ua81647/)
 - [Blog: Hardening Linux](https://f2linux.wordpress.com)
 - [Tutoriais no YouTube](https://youtube.com/@fabiowlademirrs)
-  [Windows 10: Como Acelerar, Proteger e Resolver Erros](https://loja.uiclap.com/titulo/ua97747/)
+- [Windows 10: Como Acelerar, Proteger e Resolver Erros](https://loja.uiclap.com/titulo/ua97747/)
 
 ---
 
