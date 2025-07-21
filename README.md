@@ -5,6 +5,8 @@
 [![Blog](https://img.shields.io/badge/Blog_Técnico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://f2suporte.blogspot.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551998883187)
 
+---
+
 ## 🛡️ Habilidades Técnicas
 
 ### 🔍 Monitoramento e Segurança
@@ -19,19 +21,25 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
+---
+
 ## 🏢 Experiência Relevante
 - **Analista SOC/NOC Sênior** @ F5 Tecnologia (2024-atual)  
   `SIEM` `Zabbix` `Resposta a Incidentes`
   
 - **Especialista em Infraestrutura** @ Banco Topázio (2021-2023)  
-  `Infraestrutura Crítica` `TOPAZ` `High Availability`
+  `Infraestrutura Crítica` `TOPAZ` `Alta Disponibilidade`
 
 [→ Ver histórico completo no LinkedIn](https://linkedin.com/in/fabiowlademir)
 
+---
+
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=FabioWlademir&show_icons=true&theme=dracula&hide=issues&include_all_commits=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=FabioWlademir&show_icons=true&theme=dracula&hide=issues&include_all_commits=true&count_private=true)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioWlademir&layout=compact&theme=dracula&hide=html,css)
+
+---
 
 ## 🔥 Projetos em Destaque
 
@@ -40,32 +48,35 @@
 [![Network Audit](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=network-security-audit&theme=dracula)](https://github.com/FabioWlademir/network-security-audit)
 [![Web Infra Security](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=enterprise-web-infra-security&theme=dracula)](https://github.com/FabioWlademir/enterprise-web-infra-security)
 
+---
+
 ## 📚 Publicações Técnicas
 - [**Domine o Windows 11**](https://loja.uiclap.com/titulo/ua81647/) - Guia Completo para Profissionais de TI
 - [**Windows 10: Como Acelerar, Proteger e Resolver Erros**](https://loja.uiclap.com/titulo/ua97747/) - Soluções Práticas para Administradores
 
+---
+
 ## 📜 Certificações e Cursos
 
 ### 🛡️ Segurança Cibernética
-- **Analista SOC** - IBSEC (2025)  
-- **Fundamentos do SOC** - LetsDefend (2023)  
-- **Cybersecurity Awareness** - IBSEC (2025)  
-- **Segurança da Informação + LGPD** - Fundação Bradesco (2024)  
+- **Analista SOC** - IBSEC (2025)
+- **Fundamentos do SOC** - LetsDefend (2023)
+- **Cybersecurity Awareness** - IBSEC (2025)
+- **Segurança da Informação + LGPD** - Fundação Bradesco (2024)
 
 ### 🐧 Infraestrutura Linux
 - **LPIC-1 (LPI 101/102)** - linux.com.br (2022)
-- **Programação de Sistemas** - IFSUL (2024)  
+- **Programação de Sistemas** - IFSUL (2024)
 
 ### ☁️ Virtualização e Cloud
-- **VMware Technical Webcast** - VMware (2023)  
-- **Windows Server & Infrastructure** - Microsoft Virtual Academy (2025)  
+- **VMware Technical Webcast** - VMware (2023)
+- **Windows Server & Infrastructure** - Microsoft Virtual Academy (2025)
 
 ### 🌐 Desenvolvimento Web
-- **Programação Web** - IFSUL (2024)  
+- **Programação Web** - IFSUL (2024)
 
 ---
 
 ✉️ **Contato Profissional**: [fabiowlademirrs@gmail.com](mailto:fabiowlademirrs@gmail.com)  
 📞 **Consultorias**: (51) 99888-3187
-
 
