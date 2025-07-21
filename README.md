@@ -43,7 +43,7 @@ Monitoramento unificado de infraestrutura híbrida.
 ### [Auditoria de Segurança](https://github.com/FabioWlademir/network-security-audit)  
 Varredura de vulnerabilidades com RoboShadow/Nmap.  
 
-### [Enterprise Web Infrastructure & Security] (https://github.com/FabioWlademir/enterprise-web-infra-security)
+### [Enterprise Web Infrastructure & Security](https://github.com/FabioWlademir/enterprise-web-infra-security)
 Gerenciamento de fóruns e blogs de alta disponibilidade.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiowlademir)
