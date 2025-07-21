@@ -1,82 +1,68 @@
-# 👋 Olá, eu sou o Fábio Wlademir!
-**Analista SOC/NOC Sênior | Especialista em Cibersegurança | Arquitetura de Infraestrutura Crítica**
+# 🛡️ Fábio Wlademir | Especialista SOC/NOC Sênior
+**Infraestrutura Crítica | Segurança Cibernética | Monitoramento 24/7**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiowlademir/)
-[![Blog](https://img.shields.io/badge/Blog_Técnico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://f2suporte.blogspot.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551998883187)
+[![LinkedIn](https://img.shields.io/badge/Conecte_se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiowlademir)
+[![Blog Técnico](https://img.shields.io/badge/Blog_Técnico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://f2suporte.blogspot.com)
+[![WhatsApp](https://img.shields.io/badge/Consultorias-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551998883187)
 
----
+## 🔍 Habilidades Principais
 
-## 🛡️ Habilidades Técnicas
+### 🖥️ Infraestrutura Corporativa
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux)
+![VMware](https://img.shields.io/badge/VMware_vSphere-607078?style=for-the-badge&logo=vmware)
 
-### 🔍 Monitoramento e Segurança
-![Zabbix](https://img.shields.io/badge/Zabbix-Expert-DD0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-SOC-00A8E1?style=for-the-badge&logo=wazuh)
-![SIEM](https://img.shields.io/badge/SIEM-Advanced-important?style=for-the-badge)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack)
+### 🔒 Segurança Avançada
+![Splunk](https://img.shields.io/badge/Splunk_Certified-000000?style=for-the-badge&logo=splunk)
+![Zabbix](https://img.shields.io/badge/Zabbix_Expert-DD0000?style=for-the-badge&logo=zabbix)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack)
 
-### ☁️ Infraestrutura
-![Windows Server](https://img.shields.io/badge/Windows_Server-Expert-0078D6?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-Professional-FCC624?style=for-the-badge&logo=linux)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
+## 📊 Estatísticas GitHub
 
-## 🏢 Experiência Relevante
-- **Analista SOC/NOC Sênior** @ F5 Tecnologia (2024-atual)  
-  `SIEM` `Zabbix` `Resposta a Incidentes`
-  
-- **Especialista em Infraestrutura** @ Banco Topázio (2021-2023)  
-  `Infraestrutura Crítica` `TOPAZ` `Alta Disponibilidade`
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=FabioWlademir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioWlademir&layout=compact&theme=radical&hide=html,css)
 
-[→ Ver histórico completo no LinkedIn](https://linkedin.com/in/fabiowlademir)
+## 🏆 Certificações
 
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=FabioWlademir&show_icons=true&theme=dracula&hide=issues&include_all_commits=true&count_private=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioWlademir&layout=compact&theme=dracula&hide=html,css)
-
----
+[![LPIC-1](https://img.shields.io/badge/LPIC--1-Certified-3DDC84?style=flat&logo=linux&logoColor=white)](https://www.lnux.com.br)
+[![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-IBSEC-important?style=flat)](https://www.ibsec.com.br)
+[![ITIL 4](https://img.shields.io/badge/ITIL_4-Foundation-0F70B7?style=flat&logo=itil)](https://www.axelos.com)
+[![ISO 27001](https://img.shields.io/badge/ISO_27001-Awareness-0095D5?style=flat)](https://www.iso.org)
 
 ## 🔥 Projetos em Destaque
 
-[![SIEM Inteligente](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=siem-inteligente&theme=dracula)](https://github.com/FabioWlademir/siem-inteligente)
-[![Zabbix Lab](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=zabbix-monitoring-lab&theme=dracula)](https://github.com/FabioWlademir/zabbix-monitoring-lab)
-[![Network Audit](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=network-security-audit&theme=dracula)](https://github.com/FabioWlademir/network-security-audit)
-[![Web Infra Security](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=enterprise-web-infra-security&theme=dracula)](https://github.com/FabioWlademir/enterprise-web-infra-security)
+[![SIEM Inteligente](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=siem-inteligente&theme=radical)](https://github.com/FabioWlademir/siem-inteligente)
+[![Zabbix Lab](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=zabbix-monitoring-lab&theme=radical)](https://github.com/FabioWlademir/zabbix-monitoring-lab)
+[![Network Audit](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=network-security-audit&theme=radical)](https://github.com/FabioWlademir/network-security-audit)
+[![Web Infra Security](https://github-readme-stats.vercel.app/api/pin/?username=FabioWlademir&repo=enterprise-web-infra-security&theme=radical)](https://github.com/FabioWlademir/enterprise-web-infra-security)
 
----
+## 💼 Experiência Corporativa
 
-## 📚 Publicações Técnicas
-- [**Domine o Windows 11**](https://loja.uiclap.com/titulo/ua81647/) - Guia Completo para Profissionais de TI
-- [**Windows 10: Como Acelerar, Proteger e Resolver Erros**](https://loja.uiclap.com/titulo/ua97747/) - Soluções Práticas para Administradores
+**F5 Tecnologia**  
+`SOC/NOC Sênior` | 2024-atual  
+- Monitoramento com Splunk/QRadar
+- Resposta a incidentes críticos
 
----
+**Banco Topázio**  
+`Especialista em Infraestrutura` | 2021-2023  
+- Alta disponibilidade (99.99%)
+- Sistemas bancários TOPAZ/CRK
 
-## 📜 Certificações e Cursos
+[Ver histórico completo no LinkedIn →](https://linkedin.com/in/fabiowlademir/details/experience/)
 
-### 🛡️ Segurança Cibernética
-- **Analista SOC** - IBSEC (2025)
-- **Fundamentos do SOC** - LetsDefend (2023)
-- **Cybersecurity Awareness** - IBSEC (2025)
-- **Segurança da Informação + LGPD** - Fundação Bradesco (2024)
+## 📚 Conteúdo e publicações Técnicas
 
-### 🐧 Infraestrutura Linux
-- **LPIC-1 (LPI 101/102)** - linux.com.br (2022)
-- **Programação de Sistemas** - IFSUL (2024)
-
-### ☁️ Virtualização e Cloud
-- **VMware Technical Webcast** - VMware (2023)
-- **Windows Server & Infrastructure** - Microsoft Virtual Academy (2025)
-
-### 🌐 Desenvolvimento Web
-- **Programação Web** - IFSUL (2024)
+- [Livro: Domine o Windows 11](https://loja.uiclap.com/titulo/ua81647/)
+- [Blog: Hardening Linux](https://f2linux.wordpress.com)
+- [Tutoriais no YouTube](https://youtube.com/@fabiowlademirrs)
+  [Windows 10: Como Acelerar, Proteger e Resolver Erros](https://loja.uiclap.com/titulo/ua97747/)
 
 ---
 
 ✉️ **Contato Profissional**: [fabiowlademirrs@gmail.com](mailto:fabiowlademirrs@gmail.com)  
-📞 **Consultorias**: (51) 99888-3187
-
+📞 **WhatsApp**: [+55 51 99888-3187](https://wa.me/5551998883187)
