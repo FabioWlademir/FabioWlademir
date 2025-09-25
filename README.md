@@ -157,8 +157,8 @@ Adoro colaborar! Se algum projeto te interessou:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contato%20Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@provedor.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-Contato%20Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiowlademir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiowlademir/)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfólio%20Online-FF6B6B?style=for-the-badge)](https://fabiwlademir.github.io)
 
 </div>
